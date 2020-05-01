@@ -13,7 +13,6 @@
   // $_POST [array] (if the form was submitted with a POST method.)
   if ( isset( $_POST ) && !empty( $_POST ) ) // Making sure SOMETHING was submitted.
   {
-    
     // Retrieving values from an array (use square brackets and either: the index
     // number or the key name [a string.]) // $_POST is an associative array (uses keys
     // instead of index numbers.) Key-value pair for associative.
